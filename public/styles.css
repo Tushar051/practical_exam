@@ -5,3 +5,21 @@
 .para{
     color: blue;
 }
+
+/* sudo apt update
+sudo apt install -y nodejs npm git */
+
+
+/* cd static-website
+npm install
+node server.js */
+
+
+
+/* sudo npm install -g pm2
+pm2 start server.js
+pm2 startup
+pm2 save */
+
+
+/* sudo node server.js */
